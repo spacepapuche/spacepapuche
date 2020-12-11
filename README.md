@@ -1,9 +1,9 @@
 ### Salut ! 👋
 Je suis spacepapuche 👾
 
-- 🔭 Je travaille actuellement sur InvasionBot
-- 🌱 Je suis en train d'apprendre Python
-- 💬 Vous pouvez me demander de l'aide en JavaScript, Python, html, CSS, etc...
+- 🔭 Je travaille actuellement sur un site web :^)
+- 🌱 Je suis en train d'approfondir mes connaissances en Python
+- 💬 Vous pouvez me demander de l'aide en JavaScript, Python, HTML, CSS, etc...
 - 📫 Vous pouvez m'envoyer des messages par Github
 ### ⚡👾⚡ spacepapuche is here
 
